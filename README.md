@@ -1,2 +1,2 @@
 # reports
-A helper repo for reports from my other apps
+A helper repo for reports from my other apps I've built.
