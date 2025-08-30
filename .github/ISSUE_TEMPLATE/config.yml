@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 Email
+    url: mailto:sendlogsplz@gmail.com
+    about: Please check the official docs before filing an issue.
+  - name: 💬 Community Discussion
+    url: https://discord.gg/B5gGDMQApM
+    about: For general questions or non-bugs, join the community chat.
