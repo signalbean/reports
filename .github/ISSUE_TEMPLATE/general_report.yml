@@ -1,0 +1,24 @@
+name: 📝 General Report
+description: For any other kind of report that doesn’t fit bug/feature
+title: "[REPORT] "
+labels: [report]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this for any other type of report — performance, UI complaints, random observations, etc.
+  - type: input
+    id: software
+    attributes:
+      label: Software / Project
+      placeholder: "example-app"
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What do you want to report?
+      placeholder: "Write your thoughts here..."
+    validations:
+      required: true
